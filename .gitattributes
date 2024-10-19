@@ -1,0 +1,8 @@
+# C files
+*.c linguist-language=C
+
+# JSON files (for any ABI files or configuration files)
+*.json linguist-language=JSON
+
+# Markdown files (for documentation)
+*.md linguist-language=Markdown
