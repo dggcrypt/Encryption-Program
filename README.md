@@ -46,7 +46,7 @@ Or if you're using the Makefile:
 make
 ```
 
-## 🔧 How to Use
+##  How to Use
 
 The basic syntax is:
 ```bash
